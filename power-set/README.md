@@ -3,9 +3,11 @@
 -----------------------------------------
 `#Tag1` `#Tag2` `#Tag3`
 
-<<<Description>>>
+Given a set of distinct integers, nums, return all possible subsets (the power set).
 
-<<<Links>>>
+Note: The solution set must not contain duplicate subsets.
+
+- https://leetcode.com/problems/subsets/
 
 ### Solutions
 1. *SelectUnselect* : Recursive Select Unselect with index
