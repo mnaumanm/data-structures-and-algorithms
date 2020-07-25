@@ -8,7 +8,7 @@ public class Tests{
   @Test
   public void t1() {
 
-    //assertEquals("Hi nauman",Main.hi("nauman"));
+    //assertEquals("Hi",Main.hi(""));
 
   }
 
