@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class IterativeWithQueue{
+public class IterativeBFSWithQueue{
   public static void main(String[] args){
     TreeNode root = TreeUtils.stringToTreeNode("[3,9,20,null,null,15,7]");
     List<List<Integer>> map = levelOrder(root);
